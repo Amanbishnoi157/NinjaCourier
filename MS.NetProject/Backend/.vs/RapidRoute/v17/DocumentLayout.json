@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\migrations\\20240810123819_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:migrations\\20240810123819_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\modal\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:modal\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\modal\\addagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:modal\\addagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|c:\\users\\amanb\\desktop\\pg-dac\\ninjacourier\\ms.netproject\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DD5BE96-7709-4039-971F-49A2A8ED4435}|RapidRoute.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:16:21.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Modal\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Modal\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Modal\\Entities\\Admin.cs",
+              "RelativeToolTip": "Modal\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:16:00.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAIBJwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:43:21.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddAgent.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Modal\\AddAgent.cs",
+              "RelativeDocumentMoniker": "Modal\\AddAgent.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Modal\\AddAgent.cs",
+              "RelativeToolTip": "Modal\\AddAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:42:42.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T06:49:52.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "Controllers\\AdminsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:29:58.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:19:17.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240810123819_newMigration.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Migrations\\20240810123819_newMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240810123819_newMigration.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Migrations\\20240810123819_newMigration.cs",
+              "RelativeToolTip": "Migrations\\20240810123819_newMigration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:19:28.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedBacksController.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Controllers\\FeedBacksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedBacksController.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Controllers\\FeedBacksController.cs",
+              "RelativeToolTip": "Controllers\\FeedBacksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:10:19.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:20:53.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgentsController.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Controllers\\AgentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgentsController.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Controllers\\AgentsController.cs",
+              "RelativeToolTip": "Controllers\\AgentsController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwGYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T19:44:24.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\amanb\\Desktop\\PG-DAC\\NinjaCourier\\MS.NetProject\\Backend\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAIBJwKcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:09:16.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
